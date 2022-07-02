@@ -1,7 +1,8 @@
 <img src="./header.png"></img>
 
-<h1 align="center">Hola 👋, Soy Flor Luz Duarte</h1>
-<h3 align="center">Diseñadora 🌈 | Futura Dev Fullstack 👩‍💻 | Nerd en general 💜</h3>
+<h3 align="left">Diseñadora 🌈 | Futura Dev Fullstack 👩‍💻 | Nerd en general 💜</h3>
+
+<hr/>
 
 - 🌱 Estoy aprendiendo **HTML, CSS, JavaScript, TypeScript, Node.js, React**
 
