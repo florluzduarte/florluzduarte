@@ -1,3 +1,5 @@
+<img src="./header.png"></img>
+
 <h1 align="center">Hola 👋, Soy Flor Luz Duarte</h1>
 <h3 align="center">Diseñadora 🌈 | Futura Dev Fullstack 👩‍💻 | Nerd en general 💜</h3>
 
