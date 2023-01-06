@@ -54,7 +54,7 @@ También pueden encontrarme en todas las redes sociales
 
 <div align="left">
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@unicornio.dev)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@unicorniodev)
 
 </div>
 
