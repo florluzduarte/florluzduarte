@@ -43,7 +43,7 @@ También pueden encontrarme en todas las redes sociales
 | ---------- | ---------------------------------------------------------- |
 | TikTok     | [@unicornio.dev](https://www.tiktok.com/@unicornio.dev)    |
 | Instagram  | [@unicornio.dev](https://www.instagram.com/unicornio.dev)  |
-| YouTube    | [@unicornio.dev](https://www.youtube.com/@unicorniodev)   |
+| YouTube    | [@unicorniodev](https://www.youtube.com/@unicorniodev)   |
 | LinkedIn   | [florluzduarte](https://www.linkedin.com/in/florluzduarte) |
 
 <br />
