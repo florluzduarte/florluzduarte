@@ -58,16 +58,16 @@ También pueden encontrarme en todas las redes sociales
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=29L3M623azA"><img width="140px" src="https://i.ytimg.com/vi/29L3M623azA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo"><img width="140px" src="https://i.ytimg.com/vi/qy30vD1ivQo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo">🔥 Visualiza tus archivos JSON de forma gráfica con esta extensión para VSCode 🔥</a><br/>Jan 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY"><img width="140px" src="https://i.ytimg.com/vi/ONfZ6geG4TY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY">¿Cuán alto es tu puntaje en LinkedIn? 👀</a><br/>Jan 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=29L3M623azA"><img width="140px" src="https://i.ytimg.com/vi/29L3M623azA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=29L3M623azA">Las meta tags y los links de 💩</a><br/>Jan 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pgwhckmZ6mU"><img width="140px" src="https://i.ytimg.com/vi/pgwhckmZ6mU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pgwhckmZ6mU">💪 ¿Cuánto puedes aprender en un año? 💪 - Hábitos de estudio - Aprende a programar</a><br/>Jan 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Gkk-JJycuC0"><img width="140px" src="https://i.ytimg.com/vi/Gkk-JJycuC0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Gkk-JJycuC0">Aprende la sintaxis básica de Markdown en menos de 1 minuto 🏃‍♀️ #shorts</a><br/>Dec 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5BqRpMwy8ts"><img width="140px" src="https://i.ytimg.com/vi/5BqRpMwy8ts/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5BqRpMwy8ts">¿Qué pasa cuando la conexión a internet es una 💩? ¿Se puede romper tu web / app por esto?</a><br/>Nov 30, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HmTrz1IDYik"><img width="140px" src="https://i.ytimg.com/vi/HmTrz1IDYik/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HmTrz1IDYik">😎 10 tipografías GANADORAS para tus sitios web 😎</a><br/>Nov 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br />
