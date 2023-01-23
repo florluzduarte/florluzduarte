@@ -58,7 +58,9 @@ También pueden encontrarme en todas las redes sociales
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo"><img width="140px" src="https://i.ytimg.com/vi/qy30vD1ivQo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L28TJ1Qgi34"><img width="140px" src="https://i.ytimg.com/vi/L28TJ1Qgi34/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L28TJ1Qgi34">🚀 Razones para aprender ASTRO en 2023 🚀</a><br/>Jan 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo"><img width="140px" src="https://i.ytimg.com/vi/qy30vD1ivQo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo">🔥 Visualiza tus archivos JSON de forma gráfica con esta extensión para VSCode 🔥</a><br/>Jan 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY"><img width="140px" src="https://i.ytimg.com/vi/ONfZ6geG4TY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY">¿Cuán alto es tu puntaje en LinkedIn? 👀</a><br/>Jan 9, 2023</td></tr></table>
@@ -66,8 +68,6 @@ También pueden encontrarme en todas las redes sociales
 <td><a href="https://www.youtube.com/watch?v=29L3M623azA">Las meta tags y los links de 💩</a><br/>Jan 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pgwhckmZ6mU"><img width="140px" src="https://i.ytimg.com/vi/pgwhckmZ6mU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pgwhckmZ6mU">💪 ¿Cuánto puedes aprender en un año? 💪 - Hábitos de estudio - Aprende a programar</a><br/>Jan 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Gkk-JJycuC0"><img width="140px" src="https://i.ytimg.com/vi/Gkk-JJycuC0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Gkk-JJycuC0">Aprende la sintaxis básica de Markdown en menos de 1 minuto 🏃‍♀️ #shorts</a><br/>Dec 19, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br />
