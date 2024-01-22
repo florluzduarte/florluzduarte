@@ -58,16 +58,16 @@ También pueden encontrarme en todas las redes sociales
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UsNs9X3QwaA"><img width="140px" src="https://i.ytimg.com/vi/UsNs9X3QwaA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CxSOx7IdKQo"><img width="140px" src="https://i.ytimg.com/vi/CxSOx7IdKQo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CxSOx7IdKQo">Componentes gratuitos basados en Tailwind CSS</a><br/>Jan 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MPczB3KjesY"><img width="140px" src="https://i.ytimg.com/vi/MPczB3KjesY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MPczB3KjesY">Aprendemos Astro juntos 💜 Armamos un blog con la documentación oficial &lpar;Parte 1&rpar;</a><br/>Jan 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UsNs9X3QwaA"><img width="140px" src="https://i.ytimg.com/vi/UsNs9X3QwaA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UsNs9X3QwaA">Emisión en directo de Unicornio Dev</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K7R6gU7I-pM"><img width="140px" src="https://i.ytimg.com/vi/K7R6gU7I-pM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K7R6gU7I-pM">🔥 5 podcasts para devs 🔥 - Tus oídos necesitaban esta info</a><br/>Jan 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L28TJ1Qgi34"><img width="140px" src="https://i.ytimg.com/vi/L28TJ1Qgi34/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L28TJ1Qgi34">🚀 Razones para aprender ASTRO en 2023 🚀</a><br/>Jan 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo"><img width="140px" src="https://i.ytimg.com/vi/qy30vD1ivQo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qy30vD1ivQo">🔥 Visualiza tus archivos JSON de forma gráfica con esta extensión para VSCode 🔥</a><br/>Jan 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY"><img width="140px" src="https://i.ytimg.com/vi/ONfZ6geG4TY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ONfZ6geG4TY">¿Cuán alto es tu puntaje en LinkedIn? 👀</a><br/>Jan 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br />
