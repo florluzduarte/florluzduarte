@@ -4,14 +4,17 @@
 
 ## 🙂 Sobre mi
 
-Soy **Frontend Developer** con un background de casi 10 años en Diseño de Producto. Mi misión es actuar como un puente entre los mundos de la Programación y el Diseño, aprovechando al máximo ambas facetas de mi camino profesional para el desarrollo de web/apps.  
+Soy **Frontend Developer** con un background de +10 años en Diseño. Mi misión es actuar como un puente entre los mundos de la Programación y el Diseño, aprovechando al máximo ambas facetas de mi camino profesional para el desarrollo de web/apps.
+
+Llevo más de 1 año y medio aprendiendo programación de manera autodidacta mientras voy compartiendo en redes sociales todo el proceso de aprendizaje. Además colaboro activamente con varias comunidades y en los proyectos open source que me parecen interesantes.
+
 <br />
 
-- 🤓 31 años siendo nerd
+- 🤓 32 años siendo nerd
 - 😎 10 años creando productos (físicos y digitales)
 - 🚀 3 años en el mundo tech
 - 💛 Amor por las startups de producto
-- 🎯 Mi meta: Fullstack Dev 2023
+- 🎯 Mi meta 2024: Aprender Backend
 
 <br />
 
@@ -41,10 +44,13 @@ También pueden encontrarme en todas las redes sociales
 
 | Red Social | Link                                                       |
 | ---------- | ---------------------------------------------------------- |
-| TikTok     | [@unicornio.dev](https://www.tiktok.com/@unicornio.dev)    |
-| Instagram  | [@unicornio.dev](https://www.instagram.com/unicornio.dev)  |
-| YouTube    | [@unicorniodev](https://www.youtube.com/@unicorniodev)   |
+| YouTube    | [@unicorniodev](https://www.youtube.com/@unicorniodev)     |
+| Twitch     | [unicorniodev](https://www.twitch.tv/unicorniodev)         |
 | LinkedIn   | [florluzduarte](https://www.linkedin.com/in/florluzduarte) |
+| Instagram  | [@unicornio.dev](https://www.instagram.com/unicornio.dev)  |
+| Threads    | [@unicornio.dev](https://www.threads.net/@unicornio.dev)   |
+| X / Twitter| [@florluzduarte](https://www.x.com/florluzduarte)          |
+| TikTok     | [@unicornio.dev](https://www.tiktok.com/@unicornio.dev)    |
 
 <br />
 
