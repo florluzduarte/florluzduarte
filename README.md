@@ -64,16 +64,16 @@ También pueden encontrarme en todas las redes sociales
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=graOzZBqHc0"><img width="140px" src="https://i.ytimg.com/vi/graOzZBqHc0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cm2rcwNx95M"><img width="140px" src="https://i.ytimg.com/vi/cm2rcwNx95M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cm2rcwNx95M">AstroTalent &lpar;Parte 1&rpar; | Codeamos desde cero un sitio web con Astro, Tailwind CSS, React y TypeScript</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sxEmycmG2Xo"><img width="140px" src="https://i.ytimg.com/vi/sxEmycmG2Xo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sxEmycmG2Xo">¿Cuándo estoy listo/a para buscar trabajo como Dev Junior? 🤔</a><br/>Feb 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=graOzZBqHc0"><img width="140px" src="https://i.ytimg.com/vi/graOzZBqHc0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=graOzZBqHc0">Aprendemos Astro Juntos &lpar;Parte 4&rpar; 🏆 - Creamos un blog con la documentación oficial</a><br/>Feb 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pwl2mrfCqU0"><img width="140px" src="https://i.ytimg.com/vi/pwl2mrfCqU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pwl2mrfCqU0">Aprendemos Astro juntos &lpar;parte 3&rpar; 🙌 Codeamos un blog usando la documentación oficial</a><br/>Feb 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sTzdmd-Ubzw"><img width="140px" src="https://i.ytimg.com/vi/sTzdmd-Ubzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sTzdmd-Ubzw">5 conceptos de React que debes saber para entrevistas técnicas  #javascript    #tech #developer</a><br/>Jan 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Hb08sAvGESg"><img width="140px" src="https://i.ytimg.com/vi/Hb08sAvGESg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Hb08sAvGESg">Seguimos aprendiendo Astro juntos - Crea un blog con la documentación oficial - &lpar;Parte 2&rpar;</a><br/>Jan 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CxSOx7IdKQo"><img width="140px" src="https://i.ytimg.com/vi/CxSOx7IdKQo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CxSOx7IdKQo">Componentes gratuitos basados en Tailwind CSS</a><br/>Jan 21, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br />
